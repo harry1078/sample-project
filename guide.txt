@@ -1,0 +1,6 @@
+<!-- STEPS TO RUN THE PROJECT -->
+
+1. UnZip the folder
+2. Open the Sample project in VS Code
+3. Open the terminal and run the command npm install
+4. Once it is installed next run the command npm start
